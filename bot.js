@@ -19,10 +19,7 @@ console.log("Welcome Again !");
 •عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
-https://www.youtube.com/channel/UCdfP04EOt3vMuFbeo3KdNww?view_as=subscriber
-ممكن تشترك بقناتي بدون امر يحبيبي
-
-https://discord.gg/vJcY6d9
+https://discord.gg/Mk4fmWc
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
@@ -47,10 +44,7 @@ client.on("guildMemberAdd", member => {
 •عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
-https://www.youtube.com/channel/UCdfP04EOt3vMuFbeo3KdNww?view_as=subscriber
-ممكن تشترك بقناتي بدون امر يحبيبي
-
-https://discord.gg/vJcY6d9
+https://discord.gg/Mk4fmWc
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
